@@ -1,4 +1,4 @@
-# Shopify2022DataScienceInternChallenge
+# Shopify 2022 Data Science Intern Challenge
 
 <b>If you were to open a Shopify store, what would you sell and why (or tell us about your store if you have one!) (200 word limit) </b>
 
